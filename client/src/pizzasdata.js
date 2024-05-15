@@ -82,7 +82,8 @@ const pizzas = [
     ],
     category: "veg",
     image: "https://www.dominos.co.in/files/items/Veggie_Paradise.jpg",
-    description: "Goldern corn, black olives, capsicum, red paprika",
+    description: "Golden corn, black olives, capsicum, red paprika",
   },
 ];
+
 export default pizzas;
